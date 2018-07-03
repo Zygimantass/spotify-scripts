@@ -1,3 +1,9 @@
+"""
+file: get_playlists.py
+description: gets users' followed playlists
+author: Zygimantass
+"""
+
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 

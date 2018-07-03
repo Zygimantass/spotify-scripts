@@ -1,3 +1,9 @@
+"""
+file: get_spotify_token.py
+description: gets users' Spotify access token
+author: Zygimantass
+"""
+
 import config
 import spotipy.util
 import re
